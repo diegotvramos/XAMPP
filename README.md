@@ -1,11 +1,8 @@
 
 
-# Cómo descargar e instalar XAMPP con Bitnami en Windows, OS X o Linux 
+# Cómo descargar e instalar XAMPP en Linux 
 
-cuando mis estudiantes tienen diferentes sistemas operativos, la interfaz de uso de cada uno de ellos es diferente, buscando me di cuenta que hay una opcion que la pantalla de inicio la estandariza en toda las plataformas y vamos a `descargar xammp desde bitnami` Bitnami es una empresa que se dedica a hacer paquetes de aplicaciones para internet
-
-
-INSTALACIÓN DE XAMPP EN UBUNTU. (APACHE, MYSQL,PHP)
+## INSTALACIÓN DE XAMPP EN UBUNTU. (APACHE, MYSQL,PHP)
 
 XAMPP, aunque es muy popular en sistemas Windows, también puede instalarse en sistemas Linux como Ubuntu. Aquí tienes una guía básica para instalar XAMPP en Ubuntu:
 
@@ -19,7 +16,7 @@ XAMPP, aunque es muy popular en sistemas Windows, también puede instalarse en s
      ```bash
      chmod +x nombre_del_archivo_descargado.run 
      ```
-https://www.apachefriends.org/es/faq_linux.html 
+   - [https://www.apachefriends.org/es/faq_linux.html](https://www.apachefriends.org/es/faq_linux.html) 
 
 3. **Instalar XAMPP:**
    - Ejecuta el instalador con el siguiente comando:
@@ -48,7 +45,7 @@ Recuerda que XAMPP está destinado principalmente a entornos de desarrollo local
 
 Ten en cuenta que la información puede cambiar con el tiempo, y siempre es recomendable consultar la documentación oficial de XAMPP o el sitio web del proyecto para obtener información más actualizada sobre la instalación y configuración en Linux.
 
-## _EN MI CASO INSTALÉ XAMPP VERSION= 8.0.28_
+### _EN MI CASO INSTALÉ XAMPP VERSION= 8.0.28_
 
 XAMPP 8.0.28 / PHP 8.0.28
 
