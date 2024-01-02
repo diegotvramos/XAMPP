@@ -1,6 +1,6 @@
 
 
-# Cómo descargar e instalar XAMPP en Linux 
+# Cómo descargar e instalar XAMPP en los diferentes sistemas operativos 
 
 ## INSTALACIÓN DE XAMPP EN UBUNTU. (APACHE, MYSQL,PHP)
 
